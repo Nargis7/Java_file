@@ -9,3 +9,4 @@ A significant milestone in Java’s history occurred on November 13, 2006, when 
 By May 8, 2007, the core JVM code was fully available under open-source distribution terms.
 Java was designed with core principles: simplicity, robustness, security, high performance, portability, multi-threading, and dynamic interpretation. These principles have made Java a preferred language for various applications, including mobile devices, internet programming, gaming, and e-business.
 Today, Java continues to be a cornerstone of modern software development, widely used across industries and platforms.
+
